@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wancn2020.github.io/ecfg.github.io/</id>
-    <title>Helpmecn dot com</title>
-    <updated>2020-11-29T09:49:03.372Z</updated>
+    <id>https://jasonederson.github.io</id>
+    <title>JASON EDERSON</title>
+    <updated>2021-05-22T15:10:47.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wancn2020.github.io/ecfg.github.io/"/>
-    <link rel="self" href="https://wancn2020.github.io/ecfg.github.io/atom.xml"/>
-    <subtitle>帮助你我，未来可期</subtitle>
-    <logo>https://wancn2020.github.io/ecfg.github.io/images/avatar.png</logo>
-    <icon>https://wancn2020.github.io/ecfg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Helpmecn dot com</rights>
+    <link rel="alternate" href="https://jasonederson.github.io"/>
+    <link rel="self" href="https://jasonederson.github.io/atom.xml"/>
+    <subtitle>OFFICAL BLOG</subtitle>
+    <logo>https://jasonederson.github.io/images/avatar.png</logo>
+    <icon>https://jasonederson.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, JASON EDERSON</rights>
 </feed>
