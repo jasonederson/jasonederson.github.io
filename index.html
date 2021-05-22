@@ -1,74 +1,97 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+
+<!DOCTYPE HTML>
+<!--
+	Multiverse by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="zh-cn">
 <head>
-<!-- 必要参数 -->
-<meta charset="utf-8"/>
-<title>JASON EDERSON</title>
-<meta name="keywords" content="关键词"/>
-<meta name="description" content="简述"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable:no"/>
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<link rel="shortcut icon" href="favicon.ico">
-<!-- CSS -->
-<link rel="stylesheet" href="https://jasonederson.github.io/media/css/mdui.min.css">
-<link rel="stylesheet" href="https://jasonederson.github.io/media/css/modify.css">
+    <title>JASON EDERSON</title>
+<meta name="keywords" content="" />
+<meta name="description" content="OFFICAL BLOG" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<base href="https://jasonederson.github.io/">
+<link rel="shortcut icon" href="favicon.ico" />
+
+<link rel="stylesheet" href="media/css/main-multiverse.css" />
+<link rel="stylesheet" href="media/css/modify-multiverse.css" />
+<noscript><link rel="stylesheet" href="media/css/noscript-multiverse.css" /></noscript>
+
+
+
 </head>
-<body id="index" class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-accent-blue mdui-theme-layout-dark">
-<header role="banner">
-    <div class="mdui-appbar mdui-appbar-fixed mdui-appbar-scroll-hide mdui-shadow-0">
-        <div class="mdui-toolbar">
-            <button class="mdui-btn mdui-btn-icon" id="menu" mdui-drawer="{target:'#drawer',overlay:true,swipe:true}"><i class="mdui-icon material-icons">menu</i></button>
-            <a href="https://jasonederson.github.io" class="mdui-typo-headline">JASON EDERSON</a>
-            <div class="mdui-toolbar-spacer"></div>
-            <button class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '深色样式切换', position: 'left'}" id="DarkStyle"><i class="mdui-icon material-icons">brightness_4</i></button>
-        </div>
-    </div>
+<body class="is-preload">
+
+<!-- 外封 -->
+<div id="wrapper">
+
+    <!-- 页眉 -->
+    <header id="header">
+    
+    <h1><strong>JASON EDERSON</strong> 由 <a href="https://html5up.net">HTML5 UP</a> 设计样式。</h1>
+    <nav>
+        <ul>
+            
+            
+            <li><a href="#footer" class="icon solid fa-info-circle">关于</a></li>
+        </ul>
+    </nav>
+    
 </header>
 
-<nav id="drawer" class="mdui-drawer mdui-drawer-full-height mdui-drawer-close">
-    <ul class="mdui-list">
-        <a href="/" class="menu"><li class="mdui-list-item mdui-ripple">首页</li></a>
-        <a href="/archives" class="menu"><li class="mdui-list-item mdui-ripple">归档</li></a>
-        <a href="/tags" class="menu"><li class="mdui-list-item mdui-ripple">标签</li></a>
-        <a href="/post/about" class="menu"><li class="mdui-list-item mdui-ripple">关于</li></a>
-        
-        <a href="https://github.com/CPlayer-CN/gridea-theme-cplayer-material" class="spread"><li class="mdui-list-item mdui-ripple">主题主页</li></a>
-    </ul>
-</nav>
-
-
-<main class="mdui-m-a-2 mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-row-xl-4 mdui-typo mdui-m-t-2">
+    <!-- 主要内容 -->
+    
+<main id="main">
     
 </main>
 
-<nav class="mdui-container mdui-m-t-2 mdui-m-b-2">
-    
-    
-</nav>
 
-<div class="mdui-m-t-2 mdui-text-center mdui-typo">
-    Powered by JasonEderson workspace
+    <!-- 页脚 -->
+    
+<footer id="footer" class="panel">
+    
+    <div class="inner split">
+        <div>
+            <section>
+                <h2>关于</h2>
+                <p>OFFICAL BLOG</p>
+            </section>
+            <section>
+                <h2>求订阅我的...</h2>
+                <ul class="icons">
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                </ul>
+            </section>
+            <p class="copyright">Powered by JasonEderson workspace</p>
+        </div>
+    </div>
+    
+</footer>
+
 </div>
 
-<script src="https://jasonederson.github.io/media/js/jquery.min.js"></script>
-<script src="https://jasonederson.github.io/media/js/mdui.min.js"></script>
-<script src="https://jasonederson.github.io/media/js/modify.js"></script>
-<script src="https://jasonederson.github.io/media/js/masonry.pkgd.min.js"></script>
-<script src="https://jasonederson.github.io/media/js/imagesloaded.pkgd.min.js"></script>
-<script>
-// 初始化-文章列表页面瀑布流。
-function masonry() {
-    // 初始化 masonry
-    $('.mdui-row-xs-1').masonry({
-        itemSelector: '.mdui-col',
-        horizontalOrder: true
-    });
-}
-masonry()
-$('.mdui-col').imagesLoaded( function() {
-    masonry()
-});
-</script>
+
+<!-- 脚本 -->
+
+<script src="media/scripts/jquery.min.js"></script>
+<script src="media/scripts/jquery.poptrox.min.js"></script>
+<script src="media/scripts/browser.min.js"></script>
+<script src="media/scripts/breakpoints.min.js"></script>
+<script src="media/scripts/util-multiverse.js"></script>
+<script src="media/scripts/main-multiverse.js"></script>
+
 
 </body>
 </html>
