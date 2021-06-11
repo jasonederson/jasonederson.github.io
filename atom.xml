@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jasonederson.github.io</id>
     <title>The Years</title>
-    <updated>2021-06-11T15:23:45.789Z</updated>
+    <updated>2021-06-11T15:36:39.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jasonederson.github.io"/>
     <link rel="self" href="https://jasonederson.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://jasonederson.github.io/images/avatar.png</logo>
     <icon>https://jasonederson.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, The Years</rights>
+    <entry>
+        <title type="html"><![CDATA[聲明]]></title>
+        <id>https://jasonederson.github.io/sheng-ming/</id>
+        <link href="https://jasonederson.github.io/sheng-ming/">
+        </link>
+        <updated>2021-06-11T15:33:15.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC 2021]]></title>
         <id>https://jasonederson.github.io/wwdc-2021/</id>
