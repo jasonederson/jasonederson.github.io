@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jasonederson.github.io</id>
     <title>The Year</title>
-    <updated>2021-06-11T14:02:45.998Z</updated>
+    <updated>2021-06-11T14:03:24.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jasonederson.github.io"/>
     <link rel="self" href="https://jasonederson.github.io/atom.xml"/>
@@ -10,4 +10,21 @@
     <logo>https://jasonederson.github.io/images/avatar.png</logo>
     <icon>https://jasonederson.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, The Year</rights>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021]]></title>
+        <id>https://jasonederson.github.io/wwdc-2021/</id>
+        <link href="https://jasonederson.github.io/wwdc-2021/">
+        </link>
+        <updated>2021-06-11T13:06:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hi There!我是Jason Ederson🌈🌵💻<br>
+Apple 公司前幾天舉行了WWDC(WORLDWIDE DEVELOPER CONFERENCE)2021活动，并發布了IOS 15, iPadOS 15, MacOS Monterey, WatchOS 8和隱私方面的重要更新。<br>
+本次更新都圍繞著一個主題**Share(共享)**而展開，無論是在FaceTime中的Share Play和你的摯友一起傾聽一個音樂，一起觀看一部影片，甚至和你的摯友一起摸魚。以及在MacOS上，Mac與Mac，Mac與iPad通過Universal Control（全局控制）打通了。<br>
+回顧這次的WWDC 2021。是的，這次的更新內容不像去年一樣跨時代，但是這次在細節上的更新，讓系統變的更好用，並且在每處都透露出Apple公司對客戶的尊重與關懷。在此次活動的主題Share上，我也看到了Apple公司下的一盤棋-將幾大操作系統相互流通，相互協作。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Hi There!我是Jason Ederson🌈🌵💻<br>
+Apple 公司前幾天舉行了WWDC(WORLDWIDE DEVELOPER CONFERENCE)2021活动，并發布了IOS 15, iPadOS 15, MacOS Monterey, WatchOS 8和隱私方面的重要更新。<br>
+本次更新都圍繞著一個主題**Share(共享)**而展開，無論是在FaceTime中的Share Play和你的摯友一起傾聽一個音樂，一起觀看一部影片，甚至和你的摯友一起摸魚。以及在MacOS上，Mac與Mac，Mac與iPad通過Universal Control（全局控制）打通了。<br>
+回顧這次的WWDC 2021。是的，這次的更新內容不像去年一樣跨時代，但是這次在細節上的更新，讓系統變的更好用，並且在每處都透露出Apple公司對客戶的尊重與關懷。在此次活動的主題Share上，我也看到了Apple公司下的一盤棋-將幾大操作系統相互流通，相互協作。</p>
+]]></content>
+    </entry>
 </feed>
