@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jasonederson.github.io</id>
     <title>The Years</title>
-    <updated>2021-06-11T15:45:16.654Z</updated>
+    <updated>2021-06-13T17:18:29.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jasonederson.github.io"/>
     <link rel="self" href="https://jasonederson.github.io/atom.xml"/>
@@ -11,11 +11,23 @@
     <icon>https://jasonederson.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, The Years</rights>
     <entry>
-        <title type="html"><![CDATA[聲明]]></title>
-        <id>https://jasonederson.github.io/sheng-ming/</id>
-        <link href="https://jasonederson.github.io/sheng-ming/">
+        <title type="html"><![CDATA[ Cookie Literature正式開始運營｜更新]]></title>
+        <id>https://jasonederson.github.io/closo/</id>
+        <link href="https://jasonederson.github.io/closo/">
         </link>
-        <updated>2021-06-11T15:33:15.000Z</updated>
+        <updated>2021-06-13T17:10:40.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://jasonederson.github.io/post-images/1623604413059.jpeg" alt="" loading="lazy"><br>
+🎆🎆🎆🎆🎆🎆<br>
+從2021年6月14日凌晨1點半開始，Cookie Literature將正式開始運營。<br>
+現在所有文章都已經發表，歡迎通過此博客主頁的Cookie Literture鏈接閱讀文章！<br>
+<img src="https://jasonederson.github.io/post-images/1623604435205.jpeg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://jasonederson.github.io/post-images/1623604413059.jpeg" alt="" loading="lazy"><br>
+🎆🎆🎆🎆🎆🎆<br>
+從2021年6月14日凌晨1點半開始，Cookie Literature將正式開始運營。<br>
+現在所有文章都已經發表，歡迎通過此博客主頁的Cookie Literture鏈接閱讀文章！<br>
+<img src="https://jasonederson.github.io/post-images/1623604435205.jpeg" alt="" loading="lazy"></p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WWDC 2021]]></title>
